@@ -2,4 +2,4 @@
 ### Profile
 - **Started**: 23/08/2024
 - **Role**: Software Developer
-- **Hobbies**: Rowing, Reading, and Role-playing
+- **Hobbies**: Managing my 5 Raspberry Pi's
