@@ -1,5 +1,5 @@
-# Stagietechs AKA: Brooke
+# Stagietechss
 ### Profile
 - **Started**: 23/08/2024
 - **Role**: Software Developer
-- **Hobbies**: Managing my 5 Raspberry Pi's
+- **Hobbies**: Managing my Raspberry Pi's
